@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi I'm Vaibhav 👋
+I'm a passionate developer and the creator of theYukt - a web platform dedicated to connecting IT students with a shared interest in hackathons and competitions. With a focus on enhancing networking opportunities for students, theYukt aims to help users find like-minded team members and thrive in collaborative environments.
 
-<!--
-**v-aibhavbajaj2520/v-aibhavbajaj2520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **What I'm Working On:**
+- **theYukt**: From development to design, I'm currently working solo on this project, striving to build a robust platform that makes networking easy and effective for IT students.
 
-Here are some ideas to get you started:
+🔧 **Technologies & Tools I Use:**  
+- **Languages**: JavaScript, Python, HTML, CSS  
+- **Frameworks & Libraries**: Node.js, Flask  
+- **Tools**: Git, Figma, VS Code
+💡 **My Interests:**  
+- Web development  
+- UI/UX design  
+- Hackathons and tech competitions  
+- Community building  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Let's Connect:**  
+- **Email**: [vaibhavbajaj20@gmail.com]  
+- **LinkedIn**: [[Your LinkedIn Profile](https://www.linkedin.com/in/vaibhav-bajaj-2005vaibhav/)]
