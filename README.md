@@ -10,7 +10,8 @@ I'm a passionate developer and the creator of theYukt - a web platform dedicated
 - **Languages**: JavaScript, Python, HTML, CSS  
 - **Frameworks & Libraries**: Node.js, Flask  
 - **Tools**: Git, Figma, VS Code
-💡 **My Interests:**  
+
+💡**My Interests:**  
 - Web development  
 - UI/UX design  
 - Hackathons and tech competitions  
